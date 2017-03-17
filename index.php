@@ -49,7 +49,8 @@ if(isset($_GET["username"]))
         <div id="appendhere"></div>
 
         Made by <a href="https://kitsu.io/users/stepper">stepper</a> (if you want to make this site pretty, please do so.)
-
+		<br>
+		<a href="https://github.com/stepperman/Kitsu-Mal">Github</a>
         <?php
             // echos the link here.
             if(isset($timeelapsed))
